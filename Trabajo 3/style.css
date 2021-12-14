@@ -1,0 +1,69 @@
+body{
+  background-image: url(https://images8.alphacoders.com/108/1084924.png);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.botones_menu{
+  margin: 1%;
+  padding: 1%;
+  background-color: rgb(255, 0, 0);
+}
+
+.verde{
+  margin: 1%;
+  padding: 1%;
+  background-color: rgb(173, 255, 47);
+}
+
+.tabla_productos{
+  width: 15%;
+  border: 3px solid #ffffff;
+  border-radius: 15px 15px 15px 15px;
+  text-align: center;
+  background-color: #ffffff;
+  display: inline-block;
+  margin: 3%;
+}
+
+.tabla_productos img{
+  width: 90%;
+  height: 300px;
+}
+
+.ocultar{
+  display: none;
+}
+
+.mostrar>div{
+  width:50%;
+  height: 500px;
+  text-align: center;
+  background-color: #1D428A;
+  margin-left: 25%;
+  margin-top: 10%;
+  padding: 2%;
+}
+
+.mostrar{
+  position: fixed;
+  background-color: rgba(250, 235, 215, 0.733);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: block;
+}
+
+img{
+  width: 20%;
+}
+
+.datos h2{
+  margin-bottom: 0;
+}
+
+.centrar_en_página{
+  margin-left: 25%;
+}
